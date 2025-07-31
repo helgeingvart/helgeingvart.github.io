@@ -7,7 +7,7 @@ author_profile: true
 
 Helge Fredriksen has, throughout his career, worked at the intersection of academia and industry as a communicator, project manager, developer, and researcher.
 
-In recent years, his focus has shifted toward machine learning and generative AI, and he currently teaches at the master's program in Computer Science at the Bodø campus of [UiT - The Arctic University of Norway](https://en.uit.no/startsida) in this field, through the courses **FYS-2021 (Machine Learning)** and ** INF-3600(Generative AI)**.
+In recent years, his focus has shifted toward machine learning and generative AI, and he currently teaches at the master's program in Computer Science at the Bodø campus of [UiT - The Arctic University of Norway](https://en.uit.no/startsida) in this field, through the courses [**FYS-2021 (Machine Learning)**](https://uit.no/utdanning/emner/emne/842206/fys-2021?ar=2024&semester=H) and **INF-3600 (Generative AI)**.
 
 He has participated in various national and international forums with contributions in the field of deep learning and is interested in applications within the maritime and clinical sectors.
 

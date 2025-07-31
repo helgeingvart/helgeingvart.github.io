@@ -14,7 +14,9 @@ locale: "en-US"
 author:
   name   : "Helge Fredriksen"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Academic profile focused on machine learning, generative AI, and applications in space, maritime and clinical sectors."
+  bio    : "Associate Professor at UiT focusing on machine learning, generative AI, and applications in space, maritime and clinical sectors."
+  email  : "helge.fredriksen<at>uit.no"
+  url    : https://en.uit.no/ansatte/helge.fredriksen
 
 include: ["_pages"]
 permalink: /:title/
