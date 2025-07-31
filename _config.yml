@@ -1,0 +1,28 @@
+title: "Helge Fredriksen"
+email: your-email@example.com
+description: >-
+  Academic profile of Helge Fredriksen.
+baseurl: "" 
+url: "https://yourusername.github.io"
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-include-cache
+
+minimal_mistakes_skin: "default"
+locale: "en-US"
+
+author:
+  name   : "Helge Fredriksen"
+  avatar : "/assets/images/profile.jpg"
+  bio    : "Academic profile focused on machine learning, deep learning, and applications in maritime and clinical sectors."
+
+include: ["_pages"]
+permalink: /:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true

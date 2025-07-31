@@ -1,0 +1,7 @@
+main:
+  - title: "Introduction"
+    url: /
+  - title: "Publications"
+    url: /publications/
+  - title: "Outreach"
+    url: /outreach/
