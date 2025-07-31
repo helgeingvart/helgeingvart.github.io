@@ -15,8 +15,24 @@ author:
   name   : "Helge Fredriksen"
   avatar : "/assets/images/profile.jpg"
   bio    : "Associate Professor at UiT focusing on machine learning, generative AI, and applications in space, maritime and clinical sectors."
-  email  : "helge.fredriksen<at>uit.no"
-  url    : https://en.uit.no/ansatte/helge.fredriksen
+  email  : "helge.fredriksen@uit.no"
+  uri    : "https://en.uit.no/ansatte/helge.fredriksen"
+  links  :
+    -   label: "Google Scholar"
+        icon: "ai ai-google-scolar"
+        url: "https://scholar.google.no/citations?user=WrY7rgoAAAAJ&hl=no"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0002-3974-9583"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/helgeingvart"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:helge.fredriksen@uit.no"
+    - label: "UIT Profile"
+      icon: "fas fa-university"
+      url: "https://en.uit.no/ansatte/helge.fredriksen"
 
 include: ["_pages"]
 permalink: /:title/
