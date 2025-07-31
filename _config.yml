@@ -8,9 +8,10 @@ theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-include-cache
 
-theme_settings:
-  include:
-    - academicons
+   
+# Enable academicons
+enable:
+  academicons: true
     
 minimal_mistakes_skin: "default"
 locale: "en-US"
