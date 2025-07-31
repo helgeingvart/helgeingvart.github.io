@@ -8,7 +8,7 @@ theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-include-cache
 
-minimal_mistakes:
+theme_settings:
   include:
     - academicons
     
