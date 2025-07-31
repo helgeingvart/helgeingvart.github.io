@@ -1,9 +1,9 @@
 title: "Helge Fredriksen"
-email: your-email@example.com
+email: helge.fredriksen@uit.no
 description: >-
   Academic profile of Helge Fredriksen.
 baseurl: "" 
-url: "https://yourusername.github.io"
+url: "https://helgeingvart.github.io"
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-include-cache
@@ -14,7 +14,7 @@ locale: "en-US"
 author:
   name   : "Helge Fredriksen"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Academic profile focused on machine learning, deep learning, and applications in maritime and clinical sectors."
+  bio    : "Academic profile focused on machine learning, generative AI, and applications in space, maritime and clinical sectors."
 
 include: ["_pages"]
 permalink: /:title/
