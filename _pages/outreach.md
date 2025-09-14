@@ -18,5 +18,8 @@ Rafael Gonzales and me participated in the NAIS conference in Tromsø, and prese
 
 During ["Blå uke" 2025 in Bodø](https://www.linkedin.com/events/oceantech-digitalisering-roboti7327593373383446529/comments/) I presented the COFUD project with [this presentation](https://drive.google.com/file/d/17taVwzfzCxGZOUhBQUe1zpXjFBtsnL9_/view?usp=drive_link)
 
+Me and Martin Skjelvareid made a presentation in the occation of that UiT became a member of [Bodø Næringsforum at 11.02.25](https://drive.google.com/file/d/1LtJqDQN4GJFRo5fXMFdScj8eNctTAfEo/view?usp=drive_link)
+
 Another presentation at [Blå uke, but in 2024](https://www.leverandornettverkyngle.com/nyheter/digital-fisk-bl-uke) I did [this presentation](https://drive.google.com/file/d/1UlY5XXeVoyrBsEkZhBUjGHLWwYVYWThb/view?usp=drive_link) for the local fishing industry this as a technology study.
  
+
