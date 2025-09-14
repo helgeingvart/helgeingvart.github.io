@@ -10,16 +10,20 @@ author_profile: true
 I participated in the [NORA 2025 conference in Halden](
 https://www.nora.ai/nora-conferences/annual-conference-2025) and presented my work on [next generation harbor prediction engine](https://drive.google.com/file/d/18I4ZorglJ2OYmAoZCukEhf8sN6Dl8shx/view?usp=sharing) entitled "A multimodal transformer model for fishing vessel destination prediction". This work was part of the [COFUD project](https://en.uit.no/project/cofud). The abstracts for the poster presentations  [can be viewed here](https://www.nora.ai/nora-conferences/annual-conference-2025/all_abstracts.pdf).
 
-## Paper presentations
+## Paper and poster presentations
 
-Rafael Gonzales and me participated in the NAIS conference in Tromsø, and presented our paper entitled ["Detecting Illegal Fishing with Variational Autoencoders"](https://drive.google.com/file/d/11pGX_F-JoxIUU6VEtstD88f7c1XHSNus/view?usp=drive_link). This work was part of the [COFUD project](https://en.uit.no/project/cofud).
+Rafael Gonzales and me participated in the NAIS conference in Tromsø, and presented our paper entitled ["Detecting Illegal Fishing with Variational Autoencoders"](https://drive.google.com/file/d/11pGX_F-JoxIUU6VEtstD88f7c1XHSNus/view?usp=drive_link). This work was part of the [COFUD project](https://en.uit.no/project/cofud)
+
+
 
 ## Professional presentations
 
 During ["Blå uke" 2025 in Bodø](https://www.linkedin.com/events/oceantech-digitalisering-roboti7327593373383446529/comments/) I presented the COFUD project with [this presentation](https://drive.google.com/file/d/17taVwzfzCxGZOUhBQUe1zpXjFBtsnL9_/view?usp=drive_link)
 
-Me and Martin Skjelvareid made a presentation in the occation of that UiT became a member of [Bodø Næringsforum at 11.02.25](https://drive.google.com/file/d/1LtJqDQN4GJFRo5fXMFdScj8eNctTAfEo/view?usp=drive_link)
+Me and Martin Skjelvareid made a presentation in the occation of that UiT became a member of [Bodø Næringsforum at 11.02.25](https://drive.google.com/file/d/1LtJqDQN4GJFRo5fXMFdScj8eNctTAfEo/view?usp=drive_link) at 11.02.2024
 
 Another presentation at [Blå uke, but in 2024](https://www.leverandornettverkyngle.com/nyheter/digital-fisk-bl-uke) I did [this presentation](https://drive.google.com/file/d/1UlY5XXeVoyrBsEkZhBUjGHLWwYVYWThb/view?usp=drive_link) for the local fishing industry this as a technology study.
+
+At 10.10.2024, I [did a presentation](https://drive.google.com/file/d/1XwArLLEzMt4zdTsqi3unPf4ZWEsxVgAn/view?usp=drive_link) for [Meløy Næringsforum](https://www.meloynf.no/liste-aktuelt-aktiviteter?meloyseminaret-2024-14314) about AI
  
 
