@@ -1,0 +1,7 @@
+---
+layout: single
+title: "Committees"
+permalink: /committees/
+author_profile: true
+---
+
