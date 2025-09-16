@@ -1,6 +1,8 @@
 main:
   - title: "Introduction"
     url: /
+  - title: "Committees"
+    url: /committees/
   - title: "Publications"
     url: /publications/
   - title: "Outreach"
