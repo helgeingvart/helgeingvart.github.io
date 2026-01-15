@@ -13,7 +13,7 @@ He has participated in various national and international forums with contributi
 
 He has supervised three master's students in this area and is now an academic mentor for the startup [**Eagle AI**](https://eagleai.no/), recently receiving a **STUD-ENT funding** (Innovation Norway, 2024). The company's product is based on a deep-learning machine learning framework that he supervised one of the aforementioned master’s students in developing.
 
-He is currently an academic team member in [Visual Intelligence](https://www.visual-intelligence.no/), and is the main supervisor of the PhD student Nicolo Grometto and the three master students Isak Hansen, Truls Lindmark and Frode Børlie on deep learning and vision related theses.
+He is currently an academic team member in [Visual Intelligence](https://www.visual-intelligence.no/), and was the main supervisor of the PhD student Nicolo Grometto and the three master students Isak Hansen, Truls Lindmark and Frode Børlie on deep learning and vision related theses.
 
 <!-- TODO: Need to change the link to Nicolo with the potential new candidate... -->
 
