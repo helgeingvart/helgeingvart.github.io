@@ -5,12 +5,10 @@ permalink: /outreach/
 author_profile: true
 ---
 
-## Poster sessions
+## Paper and poster sessions
 
-I participated in the [NORA 2025 conference in Halden](
-https://www.nora.ai/nora-conferences/annual-conference-2025) and presented my work on [next generation harbor prediction engine](https://drive.google.com/file/d/18I4ZorglJ2OYmAoZCukEhf8sN6Dl8shx/view?usp=sharing) entitled "A multimodal transformer model for fishing vessel destination prediction". This work was part of the [COFUD project](https://en.uit.no/project/cofud). The abstracts for the poster presentations  [can be viewed here](https://www.nora.ai/nora-conferences/annual-conference-2025/all_abstracts.pdf).
-
-## Paper and poster presentations
+I participated at the [NORA 2025 conference in Halden](
+https://www.nora.ai/nora-conferences/annual-conference-2025) and presented my work on [next generation harbor prediction engine](https://drive.google.com/file/d/18I4ZorglJ2OYmAoZCukEhf8sN6Dl8shx/view?usp=sharing) entitled "A multimodal transformer model for fishing vessel destination prediction". This work is part of the [COFUD project](https://en.uit.no/project/cofud). The abstracts for the poster presentations  [can be viewed here](https://www.nora.ai/nora-conferences/annual-conference-2025/all_abstracts.pdf).
 
 Rafael Gonzales and me participated in the [NAIS conference](https://www.aisociety.no/nais2025) in Tromsø 18.06.25, and presented our paper entitled ["Detecting Illegal Fishing with Variational Autoencoders"](https://drive.google.com/file/d/11pGX_F-JoxIUU6VEtstD88f7c1XHSNus/view?usp=drive_link). This work was part of the [COFUD project](https://en.uit.no/project/cofud)
 
@@ -26,7 +24,7 @@ At 10.10.2024, I [did a presentation](https://drive.google.com/file/d/1XwArLLEzM
  
 ## Academic presentations on deep learning topics
 
-1. Helge Fredriksen, Truls Lindmark, Issam Rais, John Bjørndalen. [Real-Time Detection of Fishing Activity in AIS Data Using a Sliding-Window Temporal Fusion Transformer](https://drive.google.com/file/d/1U0gLkiyMQbme2zVhdFuw9AQOQMBmyipS/view?usp=sharing) Presentation at the UArctic Congress 2026. 27.05.2026, Torshavn, Faroe Islands. (Link to abstract)[https://virtual.oxfordabstracts.com/event/75716/program?f=helge%20fredriksen&date=%222026-5-27%22&g_submission=563&g_session=215457]
+1. Helge Fredriksen, Truls Lindmark, Issam Rais, John Bjørndalen. [Real-Time Detection of Fishing Activity in AIS Data Using a Sliding-Window Temporal Fusion Transformer](https://drive.google.com/file/d/1U0gLkiyMQbme2zVhdFuw9AQOQMBmyipS/view?usp=sharing) Presentation at the UArctic Congress 2026. 27.05.2026, Torshavn, Faroe Islands. Please see the [link to the abstract too](https://virtual.oxfordabstracts.com/event/75716/program?f=helge%20fredriksen&date=%222026-5-27%22&g_submission=563&g_session=215457)
 
 2. Helge Fredriksen. [Approaching adverse event detection utilizing transformers on clinical time-series](https://drive.google.com/file/d/1SWLjajjwF1WngNWXsG015hk1S2nKJLoN/view?usp=drive_link) Guest Lecture for the Machine Learning Group at University of Aalborg. 01.11.2023
 
