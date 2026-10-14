@@ -18,9 +18,9 @@ During ["Blå uke" 2025 in Bodø](https://www.linkedin.com/events/oceantech-digi
 
 Me and Martin Skjelvareid made a presentation in the occation of that UiT became a member of [Bodø Næringsforum at 11.02.25](https://drive.google.com/file/d/1LtJqDQN4GJFRo5fXMFdScj8eNctTAfEo/view?usp=drive_link) at 11.02.2024.
 
-Another presentation at [Blå uke, but in 2024](https://www.leverandornettverkyngle.com/nyheter/digital-fisk-bl-uke) I did [this presentation](https://drive.google.com/file/d/1UlY5XXeVoyrBsEkZhBUjGHLWwYVYWThb/view?usp=drive_link) for the local fishing industry this as a technology study.
+At "Blå uke" in 2024 I did [this presentation](https://drive.google.com/file/d/1UlY5XXeVoyrBsEkZhBUjGHLWwYVYWThb/view?usp=drive_link) for the local fishing industry as a technology study.
 
-At 10.10.2024, I [did a presentation](https://drive.google.com/file/d/1XwArLLEzMt4zdTsqi3unPf4ZWEsxVgAn/view?usp=drive_link) for [Meløy Næringsforum](https://www.meloynf.no/liste-aktuelt-aktiviteter?meloyseminaret-2024-14314) about the latest developement in Generative AI.
+In October 2024, I [did a presentation](https://drive.google.com/file/d/1XwArLLEzMt4zdTsqi3unPf4ZWEsxVgAn/view?usp=drive_link) for [Meløy Næringsforum](https://www.meloynf.no/liste-aktuelt-aktiviteter?meloyseminaret-2024-14314) about the latest developement in Generative AI.
  
 ## Academic presentations on deep learning topics
 
