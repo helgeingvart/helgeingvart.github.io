@@ -4,15 +4,24 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 permissions:
   contents: read
   pages: write
   id-token: write
 
+# Don't let two deployments run at the same time; let an in-progress one finish.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
 jobs:
   github-pages:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
 
@@ -23,11 +32,17 @@ jobs:
       - run: |
           gem install bundler
           bundle install
+
       - run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
 
       - uses: actions/configure-pages@v5
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./_site
 
-      - uses: actions/deploy-pages@v4
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
