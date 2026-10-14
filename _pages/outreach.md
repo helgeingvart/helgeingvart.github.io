@@ -26,8 +26,10 @@ At 10.10.2024, I [did a presentation](https://drive.google.com/file/d/1XwArLLEzM
  
 ## Academic presentations on deep learning topics
 
-1. Helge Fredriksen. [Approaching adverse event detection utilizing transformers on clinical time-series](https://drive.google.com/file/d/1SWLjajjwF1WngNWXsG015hk1S2nKJLoN/view?usp=drive_link) Guest Lecture for the Machine Learning Group at University of Aalborg. 01.11.2023
+1. Helge Fredriksen, Truls Lindmark, Issam Rais, John Bjørndalen. [Real-Time Detection of Fishing Activity in AIS Data Using a Sliding-Window Temporal Fusion Transformer](https://drive.google.com/file/d/1U0gLkiyMQbme2zVhdFuw9AQOQMBmyipS/view?usp=sharing) Presentation at the UArctic Congress 2026. 27.05.2026, Torshavn, Faroe Islands. (Link to abstract)[https://virtual.oxfordabstracts.com/event/75716/program?f=helge%20fredriksen&date=%222026-5-27%22&g_submission=563&g_session=215457]
 
-2. Helge Fredriksen. [Clustering multivariate time series: The case of sparsly sampled series at irregular time-intervals.](https://drive.google.com/file/d/1uwiDH7_rcJBacXIto11zv9O8bWSWS__9/view?usp=sharing) Guest lecture at Applied Data Science Park at FH Salzburg, 29.03.2022, Salzburg, Austria.
+2. Helge Fredriksen. [Approaching adverse event detection utilizing transformers on clinical time-series](https://drive.google.com/file/d/1SWLjajjwF1WngNWXsG015hk1S2nKJLoN/view?usp=drive_link) Guest Lecture for the Machine Learning Group at University of Aalborg. 01.11.2023
 
-3. Helge Fredriksen, Arthur Schuchter. [Segmentation of costa in 2d MRI scans utilizing the U-Net convolutional network architecture](https://drive.google.com/file/d/1HwbYUV2mpxkTqNMd_1QCH_CX_V9sqxdb/view?usp=sharing). The NOBIM conference 2021, Oslo, 13.-14.09.2021
+3. Helge Fredriksen. [Clustering multivariate time series: The case of sparsly sampled series at irregular time-intervals.](https://drive.google.com/file/d/1uwiDH7_rcJBacXIto11zv9O8bWSWS__9/view?usp=sharing) Guest lecture at Applied Data Science Park at FH Salzburg, 29.03.2022, Salzburg, Austria.
+
+4. Helge Fredriksen, Arthur Schuchter. [Segmentation of costa in 2d MRI scans utilizing the U-Net convolutional network architecture](https://drive.google.com/file/d/1HwbYUV2mpxkTqNMd_1QCH_CX_V9sqxdb/view?usp=sharing). The NOBIM conference 2021, Oslo, 13.-14.09.2021
